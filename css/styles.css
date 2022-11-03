@@ -38,18 +38,26 @@ img
 
 h1{
     text-align: center;
+    color: #EEF8FF;
+    font-family: 'Rajdhani', sans-serif;
+    background-color: black;
 }
 
 body{
     padding: 1.5em;
+    background-image: url(../assets/space4.jpg);
 }
 
 p {
     font-family: 'Rajdhani', sans-serif;
     font-size: 1.1em;
+    color: #EEF8FF;
+    background-color: black;
 }
 
 h3 {
     text-align: center;
     font-family: 'Rajdhani', sans-serif;
+    color: #EEF8FF;
+    background-color: black;
 }
