@@ -5,11 +5,29 @@ img
     margin-right: auto;
 }
 
-body
+h2
 {
-    padding: 1em;
-}
+ font-size: 60px;
+ text-align:center;
+ margin-top: 200px;
+ margin-bottom: 50px;
+ margin-right: 700px;
+ margin-left: 700px;
+ }
 
+ .test
+ {
+    font-size: 16px;
+    height:10em;
+    width:20em;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    /* margin-right: 800px; */
+    margin-left: 500px;
+ }
+
+
+<<<<<<< HEAD
 .container{
     display: flex;
     justify-content: space-evenly;
@@ -22,3 +40,5 @@ body
     align-items: center;
     align-content: space-between;
 }
+=======
+>>>>>>> ae6a283dc8c42c772b4ad3fe7a6aab432cee77d0
