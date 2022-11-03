@@ -5,3 +5,12 @@ img
     margin-right: auto;
 }
 
+body
+{
+    padding: 1em;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
