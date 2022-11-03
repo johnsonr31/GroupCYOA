@@ -13,20 +13,16 @@ h2
  margin-right:8em;
  margin-left: 9em;
  }
-
- .test
- {
-    font-size: 16px;
-    height:10em;
-    width:20em;
-    margin-top: 5em;
-    margin-left: 32em;
- }
  
- html
- {
-    
- }
+ 
+ .playbutton{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative; top:5em
+}
+
+ 
 
 
 .container{
