@@ -5,8 +5,22 @@ img
     margin-right: auto;
 }
 
+h2
+{
+ font-size: 60px;
+ text-align:center;
+ margin-top: 200px;
+ margin-bottom: 50px;
+ margin-right: 700px;
+ margin-left: 700px;
+ }
 
-
-
+ .test
+ {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    /* margin-right: 800px; */
+    margin-left: 630px;
+ }
 
 
